@@ -1,5 +1,3 @@
-Tentu, berikut adalah README yang diperbarui untuk proyek "Java Form Pendaftaran":
-
 # Java Form Pendaftaran
 
 Selamat datang di repositori Java Form Pendaftaran! Repositori ini berisi implementasi sederhana tentang sebuah formulir pendaftaran menggunakan bahasa pemrograman Java. Dalam proyek ini, Anda akan menemukan kode untuk membuat dan mengelola formulir pendaftaran.
